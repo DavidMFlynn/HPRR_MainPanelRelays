@@ -1,0 +1,22 @@
+(kicad_sch (version 20201015) (generator eeschema)
+
+  (paper "A")
+
+  (title_block
+    (title "Main Panel Aux Relays")
+    (date "2021-02-25")
+    (rev "n/c")
+    (company "DMFE")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+  )
+)
