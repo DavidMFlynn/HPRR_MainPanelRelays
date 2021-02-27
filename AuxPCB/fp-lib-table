@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MY4PDT")(type "KiCad")(uri "${KIPRJMOD}/MY4PDT.pretty")(options "")(descr ""))
+)
